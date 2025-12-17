@@ -127,10 +127,10 @@ export default function HeroSection() {
                         </div>                        
                     </div>
                     <section>
-                        <Testimonials />
+                        <Pricing />
                     </section>
                     <section>
-                        <Pricing />
+                        <Testimonials />
                     </section>
                 </section>
             </main>
